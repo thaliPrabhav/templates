@@ -1,7 +1,7 @@
 {
-  "packageName" : "Maven",
-  "github_url":"https://github.com/apache/maven",
-  "publishedVersion" : "3.8.6",
-  "publishedDate" : "2022-12-01",
+  "package_name" : "Maven",
+  "github_url" : "https://github.com/apache/maven",
+  "published_version" : "3.8.6",
+  "published_date" : "2022-12-01",
   "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
 }
