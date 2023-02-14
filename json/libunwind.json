@@ -1,0 +1,7 @@
+{
+  "packageName" : "Libunwind",
+  "github_url":"https://github.com/libunwind/libunwind",
+  "publishedVersion" : "1.6.2",
+  "publishedDate" : "2022-11-14",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
