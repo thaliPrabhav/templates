@@ -1,0 +1,9 @@
+{
+  "package_name" : "pm2",
+  "github_url" : "https://github.com/Unitech/pm2",
+  "org" : "Unitech",
+  "repo" : "pm2",
+  "published_version" : "5.2.2",
+  "published_date" : "2022-12-26",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
