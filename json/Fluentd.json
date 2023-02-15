@@ -1,0 +1,9 @@
+{
+  "package_name" : "fluentd",
+  "github_url" : "https://github.com/fluent/fluentd",
+  "org" : "fluent",
+  "repo" : "fluentd",
+  "published_version" : "1.15.3",
+  "published_date" : "2022-11-30",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
