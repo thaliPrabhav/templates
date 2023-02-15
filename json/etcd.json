@@ -1,0 +1,9 @@
+{
+  "package_name" : "etcd",
+  "github_url" : "https://github.com/etcd-io/etcd",
+  "org" : "etcd-io",
+  "repo" : "etcd",
+  "published_version" : "3.5.6",
+  "published_date" : "2022-12-29",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
