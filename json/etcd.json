@@ -1,5 +1,5 @@
 {
-  "package_name" : "etcd",
+  "package_name" : "Etcd",
   "github_url" : "https://github.com/etcd-io/etcd",
   "org" : "etcd-io",
   "repo" : "etcd",
