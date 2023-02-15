@@ -1,0 +1,9 @@
+{
+  "package_name" : "xmlsec",
+  "github_url" : "https://github.com/lsh123/xmlsec",
+  "org" : "lsh123",
+  "repo" : "xmlsec",
+  "published_version" : "1.2.37",
+  "published_date" : "2023-01-23",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
