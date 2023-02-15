@@ -1,0 +1,9 @@
+{
+  "package_name" : "Sysdig",
+  "github_url" : "https://github.com/draios/sysdig",
+  "org" : "draios",
+  "repo" : "sysdig",
+  "published_version" : "0.30.2",
+  "published_date" : "2023-02-13",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
