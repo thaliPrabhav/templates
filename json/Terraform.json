@@ -1,0 +1,9 @@
+{
+  "package_name" : "Terraform",
+  "github_url" : "https://github.com/hashicorp/terraform",
+  "org" : "hashicorp",
+  "repo" : "terraform",
+  "published_version" : "1.3.6",
+  "published_date" : "2022-12-26",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
