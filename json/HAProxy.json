@@ -1,0 +1,9 @@
+{
+  "package_name" : "HAProxy",
+  "github_url" : "https://github.com/haproxy/haproxy",
+  "org" : "haproxy",
+  "repo" : "haproxy",
+  "published_version" : "2.7.0",
+  "published_date" : "2022-12-26",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
