@@ -1,0 +1,9 @@
+{
+  "package_name" : "wildfly",
+  "github_url" : "https://github.com/wildfly/wildfly",
+  "org" : "wildfly",
+  "repo" : "wildfly",
+  "published_version" : "27.0.1",
+  "published_date" : "2023-02-07",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
