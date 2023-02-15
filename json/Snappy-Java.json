@@ -1,0 +1,9 @@
+{
+  "package_name" : "Snappy-Java",
+  "github_url" : "https://github.com/xerial/snappy-java",
+  "org" : "xerial",
+  "repo" : "snappy-java",
+  "published_version" : "1.1.9.1",
+  "published_date" : "2023-02-06",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
