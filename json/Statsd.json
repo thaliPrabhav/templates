@@ -1,0 +1,9 @@
+{
+  "package_name" : "Statsd",
+  "github_url" : "https://github.com/statsd/statsd",
+  "org" : "statsd",
+  "repo" : "statsd",
+  "published_version" : "0.9.0",
+  "published_date" : "2022-09-17",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
