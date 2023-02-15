@@ -1,0 +1,9 @@
+{
+  "package_name" : "RabbitMQ",
+  "github_url" : "https://github.com/rabbitmq/rabbitmq-server",
+  "org" : "rabbitmq",
+  "repo" : "rabbitmq-server",
+  "published_version" : "3.11.4",
+  "published_date" : "2022-12-29",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
