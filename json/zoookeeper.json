@@ -1,9 +1,0 @@
-{
-  "package_name" : "Apache Zookeeper",
-  "github_url" : "https://github.com/apache/zookeeper",
-  "org" : "apache",
-  "repo" : "zookeeper",
-  "published_version" : "3.7.0",
-  "published_date" : "2021-04-15",
-  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
-}
