@@ -1,0 +1,9 @@
+{
+  "package_name" : "protobuf",
+  "github_url" : "https://github.com/protocolbuffers/protobuf",
+  "org" : "protocolbuffers",
+  "repo" : "protobuf",
+  "published_version" : "3.21.12",
+  "published_date" : "2022-12-30",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
