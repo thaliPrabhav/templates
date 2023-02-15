@@ -1,0 +1,9 @@
+{
+  "package_name" : "Puppet",
+  "github_url" : "https://github.com/puppetlabs/puppet",
+  "org" : "puppetlabs",
+  "repo" : "puppet",
+  "published_version" : "7.18.0",
+  "published_date" : "2022-08-18",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
