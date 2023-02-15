@@ -3,7 +3,7 @@
   "github_url" : "https://github.com/libunwind/libunwind",
   "org" : "libunwind",
   "repo" : "libunwind",
-  "published_version" : "1.7.4",
-  "published_date" : "2023-01-14",
+  "published_version" : "1.6.2",
+  "published_date" : "2022-11-14",
   "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
 }
