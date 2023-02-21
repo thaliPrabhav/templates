@@ -1,0 +1,9 @@
+{
+  "package_name" : "Alertmanager",
+  "github_url" : "https://github.com/prometheus/alertmanager",
+  "org" : "prometheus",
+  "repo" : "alertmanager",
+  "published_version" : "0.25",
+  "published_date" : "2023-01-13",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
