@@ -1,0 +1,9 @@
+{
+  "package_name" : "Flannel",
+  "github_url" : "https://github.com/flannel-io/flannel",
+  "org" : "flannel-io",
+  "repo" : "flannel",
+  "published_version" : "0.20.2",
+  "published_date" : "2023-01-09",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
