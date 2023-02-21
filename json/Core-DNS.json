@@ -1,0 +1,9 @@
+{
+  "package_name" : "CoreDNS",
+  "github_url" : "https://github.com/coredns/coredns",
+  "org" : "coredns",
+  "repo" : "coredns",
+  "published_version" : "1.10.0",
+  "published_date" : "2022-10-18",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
