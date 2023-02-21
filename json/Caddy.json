@@ -1,0 +1,9 @@
+{
+  "package_name" : "Caddy",
+  "github_url" : "https://github.com/caddyserver/caddy",
+  "org" : "caddyserver",
+  "repo" : "caddy",
+  "published_version" : "2.6.2",
+  "published_date" : "2022-12-23",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
