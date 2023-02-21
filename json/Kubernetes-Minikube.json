@@ -1,0 +1,9 @@
+{
+  "package_name" : "Kubernetes-Minikube",
+  "github_url" : "https://github.com/kubernetes/minikube",
+  "org" : "kubernetes",
+  "repo" : "minikube",
+  "published_version" : "1.29.0",
+  "published_date" : "2023-02-15",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
