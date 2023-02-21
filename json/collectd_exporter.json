@@ -1,0 +1,9 @@
+{
+  "package_name" : "Collectd_Exporter",
+  "github_url" : "https://github.com/prometheus/collectd_exporter",
+  "org" : "prometheus",
+  "repo" : "collectd_exporter",
+  "published_version" : "0.5.0",
+  "published_date" : "2022-08-10",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
