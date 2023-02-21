@@ -1,0 +1,9 @@
+{
+  "package_name" : "Grpc",
+  "github_url" : "https://github.com/grpc/grpc-node",
+  "org" : "grpc",
+  "repo" : "grpc-node",
+  "published_version" : "1.8.0",
+  "published_date" : "2022-12-26",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
