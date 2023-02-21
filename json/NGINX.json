@@ -1,0 +1,9 @@
+{
+  "package_name" : "NGINX",
+  "github_url" : "https://github.com/nginx/nginx",
+  "org" : "nginx",
+  "repo" : "nginx",
+  "published_version" : "1.22.1",
+  "published_date" : "2022-12-30",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
