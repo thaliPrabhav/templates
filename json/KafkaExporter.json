@@ -1,0 +1,9 @@
+{
+  "package_name" : "Kafka-exporter",
+  "github_url" : "https://github.com/danielqsj/kafka_exporter",
+  "org" : "danielqsj",
+  "repo" : "kafka_exporter",
+  "published_version" : "1.6.0",
+  "published_date" : "2022-11-29",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
