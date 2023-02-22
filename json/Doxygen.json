@@ -1,0 +1,9 @@
+{
+  "package_name" : "Doxygen",
+  "github_url" : "https://github.com/doxygen/doxygen",
+  "org" : "doxygen",
+  "repo" : "doxygen",
+  "published_version" : "1.9.6",
+  "published_date" : "2023-02-01",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
