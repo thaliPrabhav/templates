@@ -1,0 +1,9 @@
+{
+  "package_name" : "Antlr",
+  "github_url" : "https://github.com/antlr/antlr4",
+  "org" : "antlr",
+  "repo" : "antlr4",
+  "published_version" : "4.11.1",
+  "published_date" : "2022-11-22",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
