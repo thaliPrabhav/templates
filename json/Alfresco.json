@@ -1,0 +1,9 @@
+{
+  "package_name" : "Alfresco",
+  "github_url" : "https://github.com/Alfresco/acs-packaging",
+  "org" : "Alfresco",
+  "repo" : "acs-packaging",
+  "published_version" : "7.2.0",
+  "published_date" : "2022-07-27",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
