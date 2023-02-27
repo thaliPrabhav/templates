@@ -1,8 +1,8 @@
 {
   "package_name" : " RethinkDB",
-  "github_url" : "https://github.com/rethinkdb/rethinkdba",
+  "github_url" : "https://github.com/rethinkdb/rethinkdb",
   "org" : "rethinkdb",
-  "repo" : "rethinkdba",
+  "repo" : "rethinkdb",
   "published_version" : "2.4.2",
   "published_date" : "2022-05-27",
   "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
