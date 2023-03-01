@@ -1,5 +1,5 @@
 {
-  "package_name" : "Nginx ingress controller",
+  "package_name" : "NGINX_Ingress_Controller",
   "github_url" : "https://github.com/kubernetes/ingress-nginx",
   "org" : "kubernetes",
   "repo" : "ingress-nginx",
