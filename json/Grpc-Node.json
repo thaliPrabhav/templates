@@ -1,5 +1,5 @@
 {
-  "package_name" : "Grpc",
+  "package_name" : "grpc-node",
   "github_url" : "https://github.com/grpc/grpc-node",
   "org" : "grpc",
   "repo" : "grpc-node",
