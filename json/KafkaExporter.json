@@ -1,5 +1,5 @@
 {
-  "package_name" : "Kafka-exporter",
+  "package_name" : "KafkaExporter",
   "github_url" : "https://github.com/danielqsj/kafka_exporter",
   "org" : "danielqsj",
   "repo" : "kafka_exporter",
