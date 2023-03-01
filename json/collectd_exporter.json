@@ -1,5 +1,5 @@
 {
-  "package_name" : "Collectd_Exporter",
+  "package_name" : "collectd_exporter",
   "github_url" : "https://github.com/prometheus/collectd_exporter",
   "org" : "prometheus",
   "repo" : "collectd_exporter",
