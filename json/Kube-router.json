@@ -1,5 +1,5 @@
 {
-  "package_name" : "Kube-router",
+  "package_name" : "Kube-Router",
   "github_url" : "https://github.com/cloudnativelabs/kube-router",
   "org" : "cloudnativelabs",
   "repo" : "kube-router",
