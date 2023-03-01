@@ -1,5 +1,5 @@
 {
-  "package_name" : " RethinkDB",
+  "package_name" : "RethinkDB",
   "github_url" : "https://github.com/rethinkdb/rethinkdb",
   "org" : "rethinkdb",
   "repo" : "rethinkdb",
