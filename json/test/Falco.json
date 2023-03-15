@@ -1,0 +1,9 @@
+{
+  "package_name" : "Falco",
+  "github_url" : "https://github.com/falcosecurity/falco",
+  "org" : "falcosecurity",
+  "repo" : "falco",
+  "published_version" : "0.33.1",
+  "published_date" : "2023-02-10",
+  "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
+}
